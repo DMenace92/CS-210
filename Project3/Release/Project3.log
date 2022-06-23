@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 126 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project3.vcxproj -> E:\School\SNHU\CS-210\Module7\Project3\Release\Project3.exe
